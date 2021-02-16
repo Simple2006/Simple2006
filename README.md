@@ -1,16 +1,15 @@
-### Hi there 👋
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm [Vinay Venkatesh](https://www.vinayven.com)!
 
-<!--
-**Simple2006/Simple2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a High School student with a strong interest in Machine Learning and Artificial Intelligence concepts based in San Jose, California.
 
-Here are some ideas to get you started:
+Since mid 2020, I've been working non stop on Python projects. I eventually found my interest in Machine Learning during the end of 2020 and since then, I've constantly pursued it. I've worked with Python, HTML/CSS, JavaScript, Kotlin, Swift, and C but Python is my favorite. ✨😍
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm focusing on 👨‍💻
+
+Currently improving my Machine Learning and App Development skills: React JS, Swift, Tensorflow, PyTorch.<br />
+
+### Find me elsewhere 🌎
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinayven/)]
+
+**[vinayven.com](https://www.vinayven.com/)**
