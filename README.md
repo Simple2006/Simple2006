@@ -8,8 +8,8 @@ Since mid 2020, I've been working non stop on Python projects. I eventually foun
 
 Currently improving my Machine Learning and App Development skills: React JS, Swift, Tensorflow, PyTorch.<br />
 
-[comment]: <> (### Find me elsewhere 🌎)
+### Find me elsewhere 🌎
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)(https://www.linkedin.com/in/vinayven/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/vinayven/)
 
 **[vinayven.com](https://www.vinayven.com/)**
